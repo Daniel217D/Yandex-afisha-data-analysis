@@ -33,6 +33,7 @@ ipywidgets==8.1.8
 isoduration==20.11.0
 jedi==0.19.2
 Jinja2==3.1.6
+joblib==1.5.3
 json5==0.13.0
 jsonpointer==3.0.0
 jsonschema==4.26.0
@@ -68,6 +69,7 @@ pandas==3.0.1
 pandocfilters==1.5.1
 parso==0.8.6
 pexpect==4.9.0
+phik==0.12.5
 pillow==12.1.1
 platformdirs==4.9.2
 prometheus_client==0.24.1
@@ -90,6 +92,7 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rfc3987-syntax==1.1.0
 rpds-py==0.30.0
+scipy==1.17.1
 seaborn==0.13.2
 Send2Trash==2.1.0
 setuptools==82.0.0
